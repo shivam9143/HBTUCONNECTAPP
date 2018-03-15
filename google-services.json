@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "859140815613",
+    "firebase_url": "https://slidingmenu-190db.firebaseio.com",
+    "project_id": "slidingmenu-190db",
+    "storage_bucket": "slidingmenu-190db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859140815613:android:1a347d1a9e5414bd",
+        "android_client_info": {
+          "package_name": "info.shivam.slidingmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859140815613-el4gecfg4ovo1trg3rigskv6k14vs2b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsHH91v22rXyPjekz4WmGNRoB7qm6nek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

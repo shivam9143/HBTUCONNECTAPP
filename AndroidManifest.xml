@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="info.shivam.slidingmenu"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hbtu"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat">
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name">
+
+            <!-- android:uiOptions="splitActionBarWhenNarrow" -->
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="main Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat">
+
+            <!-- // android:uiOptions="splitActionBarWhenNarrow" > -->
+        </activity>
+        <activity
+            android:name=".ReqLevFragment"
+            android:label="Leave Request" />
+        <!-- <receiver android:name=".BroadcastManager" > -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.net.conn.CONNECTIVITY_CHANGE" /> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+
+        <activity
+            android:name=".UserRegistration"
+            android:label="User Registration" />
+        <activity
+            android:name=".Login1"
+            android:label="Login" />
+        <activity
+            android:name=".ApproveLeave"
+            android:label="Approve Leave" />
+        <activity
+            android:name=".HomeFragment"
+            android:label="Home Fragment" />
+
+        <!--
+            <activity
+            android:name=".Webactivity"
+            android:label="@string/title_activity_webactivity"></activity>
+        -->
+        <activity
+            android:name=".userdash"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Changepswd"
+            android:label="@string/title_activity_payroll" />
+        <activity android:name="org.achartengine.GraphicalActivity" />
+
+        <service android:name=".NotificationService" />
+        <service
+            android:name=".MyFirebaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".MyFirebaseInstanceIdService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".Dashboard" />
+        <activity
+            android:name=".Verification"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".ForgetPassword" />
+        <activity android:name=".NewNoteActivity" />
+        <activity android:name=".NoteMainActivity"></activity>
+    </application>
+
+</manifest>

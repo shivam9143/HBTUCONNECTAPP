@@ -1,0 +1,580 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.1.0] C:\Users\Shivam\.android\build-cache\3b149d55ded5f48775db5311eb5b8c8aa3b9a7e3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:3.1.0] C:\Users\Shivam\.android\build-cache\1f721ac9cb01b675bb29543d14cdd8ee9ae029a7\output\AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\ee1f699998fd5ac2289bb3b0f616f7e4af3ab7ad\output\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shivam\.android\build-cache\bacaecfb1753df7ed7b784df21114c39fec32e6c\output\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\9b13ce3c714e86d4df90dc0da061042e5f0646ff\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\5005ab0007a1e968e3d7c718265052b398390ae8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Shivam\.android\build-cache\5b636719ac57ff7f464952762dca7f426d93135d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Shivam\.android\build-cache\f7c6d9b86080593ac62050d593430a6743aacf0d\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Shivam\.android\build-cache\275c8117826cc961cdd2805a8a7ee0a211cba913\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Shivam\.android\build-cache\88a14026e0c7bf60e63ed4c0701de0ff51165de5\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Shivam\.android\build-cache\e31ae398ac4d5e9612444b778695e6be3400a5ef\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\Shivam\.android\build-cache\99931f10a31823aff46de36a95623f0de5f47632\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\Shivam\.android\build-cache\08c36f23ce48eac22544c49fc95fa2b442107479\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Shivam\.android\build-cache\90811ebb3e9aa122dd2461a15dc6316d41d51a23\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Shivam\.android\build-cache\99ba85fe3794a579ad78b71cb16eff1f47356a14\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\Shivam\.android\build-cache\5e92e9174e586c5c1691ca462544d561ee721cd0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\Shivam\.android\build-cache\bd52ed1fbd24d0c668b10d3c2e4e26071bc91987\output\AndroidManifest.xml:4:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Shivam\.android\build-cache\83947274278469c65acf49608064f008d768d18b\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] C:\Users\Shivam\.android\build-cache\c7bfbabad016f9240e10a3947e409cf8653553d0\output\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Shivam\.android\build-cache\011b34eac5c25c923d56e477c9aac8d6eb7ecb51\output\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\Shivam\.android\build-cache\64f54ef98a791711cd62384a19971f2972d0c2f5\output\AndroidManifest.xml:27:5-43
+MERGED from [com.android.support:design:26.0.0] C:\Users\Shivam\.android\build-cache\11bd7329440f4179557abf4f50ed4e7eadcec030\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Shivam\.android\build-cache\509df7047e667251f90d1200aa0f0d9a9558412e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Shivam\.android\build-cache\1331bbecc321709674fd5fe8e90068376eb9fb20\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Shivam\.android\build-cache\88d4dc0b48e23feee00524f34c17e8c413926a8e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Shivam\.android\build-cache\537e0ec84958cc7a73d523cadaf44b86bc4c69f5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\ef3b610a133c2fef207c7a9cf5fc70cdf02bb9d4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] C:\Users\Shivam\.android\build-cache\ade95a1e9c7c2ada95e7800451eb2b4d0d4a974c\output\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Shivam\.android\build-cache\6a4c2c17eb8e20ab2581ec44dc728ffffbdb4594\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\Shivam\.android\build-cache\82a75be929714a49765d02ee2fd147126dcf0ac3\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Shivam\.android\build-cache\1b0e6466c269097ada231d1d5542edcddfb1fd09\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\Shivam\.android\build-cache\e8f8de6ebe0017d32fc293c753b7f1f3084bcf34\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Shivam\.android\build-cache\f86386663f77ca8c10f038cf22fc8edf6a3dc20b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\Shivam\.android\build-cache\8cfe92440a1125be8049fb8cd3c51dce94d3055e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\6e9da885c1c9c569b34e422c35b5a8a2b20ab343\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\Shivam\.android\build-cache\89b689205e5fb08b7afd104f5bfe13978135a6e5\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\Shivam\.android\build-cache\efbd7853d08128ebc7094c4550133877c5c868cc\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\Shivam\.android\build-cache\cd00ce762a56151366f6e9781cb39393bcc91c6e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Shivam\.android\build-cache\4437608b7363d282848bc31b0e2fab7dfab4d488\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Shivam\.android\build-cache\67c9b3d7c0718905d286f7eaab60fb5a57547477\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Shivam\.android\build-cache\743c1b7613e87b4820d48ff41e071cd28afe892c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Shivam\.android\build-cache\4b0fcec3a4044771e766c17208b0945aa058e699\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Shivam\.android\build-cache\c8c8858c22b6d3f5d7bea55dfc76e65062cd5e5c\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Shivam\.android\build-cache\22e2d2ba2a610d76bacfd80dc49f455ef6455212\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Shivam\.android\build-cache\a884e27396e26ac4114c17c7d7dfed48de5481df\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Shivam\.android\build-cache\871113e803f38e0bfb239950f84d9169e575250c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Shivam\.android\build-cache\d86f670bfb995868c5cf282e638973be58b4de29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Shivam\.android\build-cache\1c57f2cffda589bd2e50ca129dfaf28834d54e00\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Shivam\.android\build-cache\ec63b0edecbf77d4e96ffbde4e8697a9ce2ce1f1\output\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shivam\.android\build-cache\c835dfc66483e66add1d22e735876567bef14f43\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Shivam\.android\build-cache\9ac8848808f5e3b9a6b98644a89be4f3d7a412e3\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\32400bd732a88ed2964aae3361547b7004acf0b3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Shivam\.android\build-cache\cde466d1ab57a21cc770b7c7622e1114b4c93cff\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Shivam\.android\build-cache\85ec7ac018f8ea9fc452074b93cdd7bc1525a381\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Shivam\.android\build-cache\ff4d1737d2eb5975ebef29b505224298994cbe7b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Shivam\.android\build-cache\35eadf39af3a3cdff2f62c4189672e389e782995\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Shivam\.android\build-cache\4827ce40dd4d86364fc25d54f49cd840b21a667b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Shivam\.android\build-cache\4f3ee4ddb63ad328368aa78f29325bec55266ea3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Shivam\.android\build-cache\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Shivam\.android\build-cache\0ad46c87f2380ae64f5de235c0b5aff705ec3ce0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Shivam\.android\build-cache\3911176c1a2f76fb2e7942cf4934ad8230939f6b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Shivam\.android\build-cache\451ec2f47a31155819e6bd88fdf8f77f9e47f461\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Shivam\.android\build-cache\754515001028edc54f7bbc0d71ead92573cc33ff\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Shivam\.android\build-cache\255301bd73e1ef2f34ac480c7e2741e7930cf2ce\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Shivam\.android\build-cache\8d1c136a323224b6e6ea30b111bada5680e1b9c1\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Shivam\.android\build-cache\a1b4d41bcc72f17084b3cca7466df26ff361ceb6\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Shivam\.android\build-cache\9d3dc321708e59214256c76a82cc80ecca26d802\output\AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0] C:\Users\Shivam\.android\build-cache\11bd7329440f4179557abf4f50ed4e7eadcec030\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+		INJECTED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\6e9da885c1c9c569b34e422c35b5a8a2b20ab343\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\32400bd732a88ed2964aae3361547b7004acf0b3\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.1.0] C:\Users\Shivam\.android\build-cache\3b149d55ded5f48775db5311eb5b8c8aa3b9a7e3\output\AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Shivam\.android\build-cache\83947274278469c65acf49608064f008d768d18b\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] C:\Users\Shivam\.android\build-cache\c7bfbabad016f9240e10a3947e409cf8653553d0\output\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Shivam\.android\build-cache\011b34eac5c25c923d56e477c9aac8d6eb7ecb51\output\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\Shivam\.android\build-cache\64f54ef98a791711cd62384a19971f2972d0c2f5\output\AndroidManifest.xml:29:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\6e9da885c1c9c569b34e422c35b5a8a2b20ab343\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\32400bd732a88ed2964aae3361547b7004acf0b3\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:14:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:17:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\6e9da885c1c9c569b34e422c35b5a8a2b20ab343\output\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\32400bd732a88ed2964aae3361547b7004acf0b3\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:21:22-77
+application
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:23:5-106:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\ee1f699998fd5ac2289bb3b0f616f7e4af3ab7ad\output\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shivam\.android\build-cache\bacaecfb1753df7ed7b784df21114c39fec32e6c\output\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.core:runtime:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\9b13ce3c714e86d4df90dc0da061042e5f0646ff\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:cardview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\5005ab0007a1e968e3d7c718265052b398390ae8\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Shivam\.android\build-cache\275c8117826cc961cdd2805a8a7ee0a211cba913\output\AndroidManifest.xml:10:5-20
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Shivam\.android\build-cache\e31ae398ac4d5e9612444b778695e6be3400a5ef\output\AndroidManifest.xml:9:5-10:19
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\Shivam\.android\build-cache\99931f10a31823aff46de36a95623f0de5f47632\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\Shivam\.android\build-cache\08c36f23ce48eac22544c49fc95fa2b442107479\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Shivam\.android\build-cache\90811ebb3e9aa122dd2461a15dc6316d41d51a23\output\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Shivam\.android\build-cache\99ba85fe3794a579ad78b71cb16eff1f47356a14\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\Shivam\.android\build-cache\5e92e9174e586c5c1691ca462544d561ee721cd0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\Shivam\.android\build-cache\bd52ed1fbd24d0c668b10d3c2e4e26071bc91987\output\AndroidManifest.xml:5:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\Shivam\.android\build-cache\83947274278469c65acf49608064f008d768d18b\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.4.1] C:\Users\Shivam\.android\build-cache\c7bfbabad016f9240e10a3947e409cf8653553d0\output\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\Shivam\.android\build-cache\011b34eac5c25c923d56e477c9aac8d6eb7ecb51\output\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\Shivam\.android\build-cache\64f54ef98a791711cd62384a19971f2972d0c2f5\output\AndroidManifest.xml:31:5-20
+MERGED from [com.android.support:design:26.0.0] C:\Users\Shivam\.android\build-cache\11bd7329440f4179557abf4f50ed4e7eadcec030\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Shivam\.android\build-cache\1331bbecc321709674fd5fe8e90068376eb9fb20\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Shivam\.android\build-cache\88d4dc0b48e23feee00524f34c17e8c413926a8e\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Shivam\.android\build-cache\537e0ec84958cc7a73d523cadaf44b86bc4c69f5\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\ef3b610a133c2fef207c7a9cf5fc70cdf02bb9d4\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] C:\Users\Shivam\.android\build-cache\ade95a1e9c7c2ada95e7800451eb2b4d0d4a974c\output\AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Shivam\.android\build-cache\6a4c2c17eb8e20ab2581ec44dc728ffffbdb4594\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Shivam\.android\build-cache\1b0e6466c269097ada231d1d5542edcddfb1fd09\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Shivam\.android\build-cache\f86386663f77ca8c10f038cf22fc8edf6a3dc20b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\Shivam\.android\build-cache\8cfe92440a1125be8049fb8cd3c51dce94d3055e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\6e9da885c1c9c569b34e422c35b5a8a2b20ab343\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\Shivam\.android\build-cache\89b689205e5fb08b7afd104f5bfe13978135a6e5\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\Shivam\.android\build-cache\efbd7853d08128ebc7094c4550133877c5c868cc\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\Shivam\.android\build-cache\cd00ce762a56151366f6e9781cb39393bcc91c6e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Shivam\.android\build-cache\743c1b7613e87b4820d48ff41e071cd28afe892c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Shivam\.android\build-cache\4b0fcec3a4044771e766c17208b0945aa058e699\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Shivam\.android\build-cache\a884e27396e26ac4114c17c7d7dfed48de5481df\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Shivam\.android\build-cache\871113e803f38e0bfb239950f84d9169e575250c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Shivam\.android\build-cache\d86f670bfb995868c5cf282e638973be58b4de29\output\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Shivam\.android\build-cache\1c57f2cffda589bd2e50ca129dfaf28834d54e00\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Shivam\.android\build-cache\ec63b0edecbf77d4e96ffbde4e8697a9ce2ce1f1\output\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shivam\.android\build-cache\c835dfc66483e66add1d22e735876567bef14f43\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Shivam\.android\build-cache\9ac8848808f5e3b9a6b98644a89be4f3d7a412e3\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\32400bd732a88ed2964aae3361547b7004acf0b3\output\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Shivam\.android\build-cache\cde466d1ab57a21cc770b7c7622e1114b4c93cff\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Shivam\.android\build-cache\85ec7ac018f8ea9fc452074b93cdd7bc1525a381\output\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Shivam\.android\build-cache\ff4d1737d2eb5975ebef29b505224298994cbe7b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Shivam\.android\build-cache\35eadf39af3a3cdff2f62c4189672e389e782995\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Shivam\.android\build-cache\4827ce40dd4d86364fc25d54f49cd840b21a667b\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Shivam\.android\build-cache\4f3ee4ddb63ad328368aa78f29325bec55266ea3\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Shivam\.android\build-cache\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Shivam\.android\build-cache\0ad46c87f2380ae64f5de235c0b5aff705ec3ce0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Shivam\.android\build-cache\3911176c1a2f76fb2e7942cf4934ad8230939f6b\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Shivam\.android\build-cache\451ec2f47a31155819e6bd88fdf8f77f9e47f461\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Shivam\.android\build-cache\754515001028edc54f7bbc0d71ead92573cc33ff\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Shivam\.android\build-cache\255301bd73e1ef2f34ac480c7e2741e7930cf2ce\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Shivam\.android\build-cache\8d1c136a323224b6e6ea30b111bada5680e1b9c1\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Shivam\.android\build-cache\a1b4d41bcc72f17084b3cca7466df26ff361ceb6\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Shivam\.android\build-cache\9d3dc321708e59214256c76a82cc80ecca26d802\output\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:25:9-38
+	android:theme
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:27:9-47
+activity#info.shivam.slidingmenu.SplashScreen
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:28:9-39:20
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:37:27-74
+activity#info.shivam.slidingmenu.MainActivity
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:40:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:43:13-50
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:42:13-42
+	android:theme
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:44:13-51
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:41:13-41
+activity#info.shivam.slidingmenu.ReqLevFragment
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:48:9-50:45
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:50:13-42
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:49:13-43
+activity#info.shivam.slidingmenu.UserRegistration
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:57:9-59:49
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:59:13-46
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:58:13-45
+activity#info.shivam.slidingmenu.Login1
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:60:9-62:37
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:62:13-34
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:61:13-35
+activity#info.shivam.slidingmenu.ApproveLeave
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:63:9-65:45
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:65:13-42
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:64:13-41
+activity#info.shivam.slidingmenu.HomeFragment
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:66:9-68:45
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:68:13-42
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:67:13-41
+activity#info.shivam.slidingmenu.userdash
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:75:9-77:47
+	android:theme
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:77:13-44
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:76:13-37
+activity#info.shivam.slidingmenu.Changepswd
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:78:9-80:62
+	android:label
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:80:13-59
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:79:13-39
+activity#org.achartengine.GraphicalActivity
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:81:9-71
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:81:19-68
+service#info.shivam.slidingmenu.NotificationService
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:83:9-56
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:83:18-53
+service#info.shivam.slidingmenu.MyFirebaseMessagingService
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:84:9-90:19
+	android:exported
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:85:13-55
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:87:13-89:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:88:17-78
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:88:25-75
+service#info.shivam.slidingmenu.MyFirebaseInstanceIdService
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:91:9-97:19
+	android:exported
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:93:13-37
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:92:13-56
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:94:13-96:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:95:17-80
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:95:25-77
+activity#info.shivam.slidingmenu.Dashboard
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:99:9-47
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:99:19-44
+activity#info.shivam.slidingmenu.Verification
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:100:9-102:47
+	android:theme
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:101:13-41
+activity#info.shivam.slidingmenu.ForgetPassword
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:103:9-52
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:103:19-49
+activity#info.shivam.slidingmenu.NewNoteActivity
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:104:9-53
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:104:19-50
+activity#info.shivam.slidingmenu.NoteMainActivity
+ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:105:9-63
+	android:name
+		ADDED from C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\AndroidManifest.xml:105:19-51
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\ee1f699998fd5ac2289bb3b0f616f7e4af3ab7ad\output\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\ee1f699998fd5ac2289bb3b0f616f7e4af3ab7ad\output\AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\ee1f699998fd5ac2289bb3b0f616f7e4af3ab7ad\output\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\ee1f699998fd5ac2289bb3b0f616f7e4af3ab7ad\output\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\ee1f699998fd5ac2289bb3b0f616f7e4af3ab7ad\output\AndroidManifest.xml:26:13-81
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shivam\.android\build-cache\bacaecfb1753df7ed7b784df21114c39fec32e6c\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shivam\.android\build-cache\bacaecfb1753df7ed7b784df21114c39fec32e6c\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shivam\.android\build-cache\bacaecfb1753df7ed7b784df21114c39fec32e6c\output\AndroidManifest.xml:26:13-58
+meta-data#android.arch.core.VERSION
+ADDED from [android.arch.core:runtime:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\9b13ce3c714e86d4df90dc0da061042e5f0646ff\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.core:runtime:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\9b13ce3c714e86d4df90dc0da061042e5f0646ff\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.core:runtime:1.0.0-beta1] C:\Users\Shivam\.android\build-cache\9b13ce3c714e86d4df90dc0da061042e5f0646ff\output\AndroidManifest.xml:26:13-53
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\5005ab0007a1e968e3d7c718265052b398390ae8\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.0.0] C:\Users\Shivam\.android\build-cache\11bd7329440f4179557abf4f50ed4e7eadcec030\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Shivam\.android\build-cache\1331bbecc321709674fd5fe8e90068376eb9fb20\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Shivam\.android\build-cache\88d4dc0b48e23feee00524f34c17e8c413926a8e\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Shivam\.android\build-cache\537e0ec84958cc7a73d523cadaf44b86bc4c69f5\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\ef3b610a133c2fef207c7a9cf5fc70cdf02bb9d4\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] C:\Users\Shivam\.android\build-cache\ade95a1e9c7c2ada95e7800451eb2b4d0d4a974c\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Shivam\.android\build-cache\4f3ee4ddb63ad328368aa78f29325bec55266ea3\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Shivam\.android\build-cache\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Shivam\.android\build-cache\0ad46c87f2380ae64f5de235c0b5aff705ec3ce0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Shivam\.android\build-cache\3911176c1a2f76fb2e7942cf4934ad8230939f6b\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Shivam\.android\build-cache\451ec2f47a31155819e6bd88fdf8f77f9e47f461\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Shivam\.android\build-cache\754515001028edc54f7bbc0d71ead92573cc33ff\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\5005ab0007a1e968e3d7c718265052b398390ae8\output\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0] C:\Users\Shivam\.android\build-cache\5005ab0007a1e968e3d7c718265052b398390ae8\output\AndroidManifest.xml:24:13-51
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Shivam\.android\build-cache\90811ebb3e9aa122dd2461a15dc6316d41d51a23\output\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Shivam\.android\build-cache\90811ebb3e9aa122dd2461a15dc6316d41d51a23\output\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Shivam\.android\build-cache\90811ebb3e9aa122dd2461a15dc6316d41d51a23\output\AndroidManifest.xml:29:13-82
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.7.1] C:\Users\Shivam\.android\build-cache\6b17875b43509789f251873753a727abccf34aee\output\AndroidManifest.xml:13:13-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Shivam\.android\build-cache\3858b7a13a6da2effa2e161bd79c8ce500606297\output\AndroidManifest.xml:34:13-89
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\057da63d846c77a976f280f811f0c143f6a5c3a9\output\AndroidManifest.xml:41:13-80
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Shivam\.android\build-cache\fb1961c24290a0cbd14aa6d8e8c656e40b9dbfeb\output\AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Shivam\.android\build-cache\d86f670bfb995868c5cf282e638973be58b4de29\output\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Shivam\.android\build-cache\d86f670bfb995868c5cf282e638973be58b4de29\output\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Shivam\.android\build-cache\d86f670bfb995868c5cf282e638973be58b4de29\output\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Shivam\.android\build-cache\d86f670bfb995868c5cf282e638973be58b4de29\output\AndroidManifest.xml:24:13-79
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\32400bd732a88ed2964aae3361547b7004acf0b3\output\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Shivam\.android\build-cache\32400bd732a88ed2964aae3361547b7004acf0b3\output\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Shivam\.android\build-cache\7037d00a89b23c7655cdffaece1f4a10d6ef81c2\output\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Shivam\.android\build-cache\a3ba6f6d19da41a6c33ed83a5c75ef51ad7b480b\output\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Shivam\.android\build-cache\85ec7ac018f8ea9fc452074b93cdd7bc1525a381\output\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Shivam\.android\build-cache\85ec7ac018f8ea9fc452074b93cdd7bc1525a381\output\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Shivam\.android\build-cache\85ec7ac018f8ea9fc452074b93cdd7bc1525a381\output\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Shivam\.android\build-cache\85ec7ac018f8ea9fc452074b93cdd7bc1525a381\output\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Shivam\.android\build-cache\85ec7ac018f8ea9fc452074b93cdd7bc1525a381\output\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Shivam\.android\build-cache\4827ce40dd4d86364fc25d54f49cd840b21a667b\output\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Shivam\.android\build-cache\4827ce40dd4d86364fc25d54f49cd840b21a667b\output\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Shivam\.android\build-cache\4827ce40dd4d86364fc25d54f49cd840b21a667b\output\AndroidManifest.xml:24:13-58

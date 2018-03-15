@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\statuslist.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\statuslist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\layout_other.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\layout_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_lib.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\5b636719ac57ff7f464952762dca7f426d93135d\\output\\res\\layout\\activity_main_lib.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_note.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_new_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\compoo.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\compoo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\latest_in.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\latest_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\timesh1.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\timesh1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_password.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\lay.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\lay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\req.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\req.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\approval.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\approval.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\lay_in.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\lay_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notificationview.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\notificationview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\statuslay.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\statuslay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\lay1.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\lay1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\action_sort.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\action_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photos.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\fragment_photos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\spinner.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find_people.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\fragment_find_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\edittextprop.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\edittextprop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\spin_layout.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\spin_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\over.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\over.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\first_view.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\first_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\separator.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\approve.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\approve.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\list2.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\list2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\inoo.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\inoo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note_main.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_note_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\second_view.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\second_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\spiner.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\spiner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\footer_repeat.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\footer_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\timesh.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\timesh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_whats_hot.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\fragment_whats_hot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\prevlevlist.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\prevlevlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_community.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\header1.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\header1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\header_gradient.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\latest_other.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\latest_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\otheract.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\otheract.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\custom_actbar.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\custom_actbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\acmain.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\acmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pages.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\fragment_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\insideheader.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\insideheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\times.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\times.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\item_message.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\single_note_layout.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\single_note_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webactivity.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_webactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\reqleave.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\reqleave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\latest.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\latest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\list1.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\list1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\ro.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\ro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userdash.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity_userdash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\f0e2f7f940f3464bbacf5a156ccf53abdfa36d02\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_payroll.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\fragment_payroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\layout_in.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\layout\\layout_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\layout\\abc_screen_toolbar.xml"
+    }
+]

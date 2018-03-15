@@ -1,0 +1,726 @@
+[
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\cmweb.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\cmweb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\f.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\f.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\success.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\success.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\contact.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\asm.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\asm.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_pressed.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\refresh.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\mycursor.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\mycursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\pass.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\download.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\download.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_home.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_whats_hot.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8money.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8money.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\timesheet.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\timesheet.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8tour.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8tour.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\profile.gif",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\profile.gif"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\startpage.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\startpage.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\up1.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\up1.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8tea.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8tea.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_account_circle_black_36dp.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_account_circle_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8user.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8user.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\northfolk11.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\northfolk11.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_communities.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_communities.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\req.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\req.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\custom_spin_bg.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\custom_spin_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\lp3.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\lp3.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\notice.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\notice.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_people.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8calendar.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\thum.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\thum.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\images.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\hbtu.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\hbtu.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\cl.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\cl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\back2.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\back2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\qw.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\qw.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\item.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\item.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\no_data.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\chatroom.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\chatroom.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_normal.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\create_btn.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\create_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\link.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\tieup11.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\tieup11.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ts.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\assmember.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\assmember.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\down.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\down.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\b2.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\b2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\nf11.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\nf11.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\b5.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\b5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\sd.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\sd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\hbtuf.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\hbtuf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8leave.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8leave.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\back.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\paypal.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\paypal.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\splash.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\cmname.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\cmname.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\downl.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\downl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\fd.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\fd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\fail.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\fail.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\logosps.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\logosps.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ref.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ref.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8logout.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8home.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8home.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\b6.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\b6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\mkt.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\mkt.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\back5.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\back5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\email.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\email.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\spinner_drop.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\spinner_drop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\holiday.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\holiday.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\i.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\back4.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\back4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\loginfinal.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\loginfinal.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\splash11.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\splash11.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\icons8ok.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\icons8ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\gl.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\gl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_pages.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\emp1.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\emp1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\intrest.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\intrest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ins.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ins.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\d86f670bfb995868c5cf282e638973be58b4de29\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\repeat_bg.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\repeat_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\loginbackfinal.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\loginbackfinal.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\b4.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\b4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\border_set.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\border_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\bag.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\bag.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\leave.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\leave.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\subbnt.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\subbnt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\psevent.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\psevent.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\imag.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\imag.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\logolgn.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\logolgn.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ch.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\logoal.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\logoal.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\log1.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\log1.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\sscreen.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\sscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\counter_bg.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\hbtulogo.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\hbtulogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\im.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\im.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ssn.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ssn.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\back1.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_style.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\edit_text_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\e.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\b3.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\b3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\bg.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\image.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\slider.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\slider.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\upeve.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\upeve.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\fb.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\fb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_drawer.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\phone.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\tie11.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\tie11.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\emp.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\emp.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\754515001028edc54f7bbc0d71ead92573cc33ff\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\d12.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\d12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\11bd7329440f4179557abf4f50ed4e7eadcec030\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\b1.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\b1.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\search.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\loginlogo.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\loginlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\notes.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\ic_photos.png",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Shivam\\.android\\build-cache\\1331bbecc321709674fd5fe8e90068376eb9fb20\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\downl1.jpg",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\downl1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\drawable\\rsnbtn.xml",
+        "source": "C:\\Users\\Shivam\\Desktop\\ShivamAppBackup@20-07-17\\EHCMbACKUP\\hrms\\SlidingMenu\\res\\drawable\\rsnbtn.xml"
+    }
+]

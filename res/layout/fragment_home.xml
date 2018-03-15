@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<info.shivam.slidingmenu.model.DashboardLayout
+    xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:layout_width = "fill_parent"
+    android:layout_height = "fill_parent"
+    android:layout_weight = "1"
+    android:background = "@color/home" >
+
+    <!--  Make order Button -->s
+    <Button
+        android:id="@+id/empdash"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/chatroom"
+        android:elevation="0dp"
+        android:text="ChatRoom"
+        android:textColor="@color/blac"/>
+
+    <!--  Check update Button -->
+    <Button
+        android:id="@+id/calender"
+        style="@style/DashboardButton"
+        android:textColor="@color/blac"
+        android:drawableTop="@drawable/holiday"
+        android:text="Holiday Calender" />
+
+    <!--  Make order Button -->
+    <Button
+        android:id="@+id/payroll"
+        style="@style/DashboardButton"
+        android:textColor="@color/blac"
+        android:drawableTop="@drawable/notice"
+        android:text="NoticeBoard" />
+
+
+    <Button
+        android:id="@+id/Leave"
+        style="@style/DashboardButton"
+        android:textColor="@color/blac"
+        android:drawableTop="@drawable/notes"
+        android:text="Notes" />
+
+
+
+</info.shivam.slidingmenu.model.DashboardLayout>
+
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\libs\httpcore-4.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\build\intermediates\pre-dexed\debug\httpcore-4.4.4_3df50447bff0f59ca379237166ae80928c95a63e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\libs\ksoap2-android-assembly-2.6.5-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e18c032c01420871b8734937029be5543107ae3">
+        <dex dex="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.6.5-jar-with-dependencies_36d3d66a5362c2b377f4e2fd5a67c716e93f6b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\libs\httpclient-4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\build\intermediates\pre-dexed\debug\httpclient-4.5_02c0d7b27fdd8d8c764f5a33330c2aeef0e302af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\libs\achartengine-0.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f51933deafdd1ffc8f3a2d7214260f124dd10af6">
+        <dex dex="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\build\intermediates\pre-dexed\debug\achartengine-0.7.0_f2b03a67a614d337fa585ced535eb1381fa6c7c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shivam\.android\build-cache\5005ab0007a1e968e3d7c718265052b398390ae8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6fdbd1bd6503815f2cef20a9a137005e5953aad1">
+        <dex dex="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\build\intermediates\pre-dexed\debug\classes_82959679cb77cb27fe74eeff9776d889e8e3d9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\libs\json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\Shivam\Desktop\ShivamAppBackup@20-07-17\EHCMbACKUP\hrms\SlidingMenu\build\intermediates\pre-dexed\debug\json-simple-1.1_204bad614a800e3651e89c98cb2156f230d2305a.jar" />
+    </item>
+
+</items>
